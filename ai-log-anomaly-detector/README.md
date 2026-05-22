@@ -1,6 +1,6 @@
 # AI Log Anomaly Detector
 
-A medium-difficulty Python project that analyzes server/application logs and flags suspicious behavior using machine learning.
+A Python project that analyzes server/application logs and flags suspicious behavior using machine learning.
 
 This project is built to show practical skills in:
 
